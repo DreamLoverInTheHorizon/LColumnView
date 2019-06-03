@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  LColumn
+//
+//  Created by apple on 2019/5/31.
+//  Copyright © 2019年 apple. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//  第三方
+#import <MJExtension/MJExtension.h>
+//  常量文件
+#import "ColumnConst.h"
+
+#endif /* PrefixHeader_pch */
